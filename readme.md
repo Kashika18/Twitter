@@ -2,9 +2,9 @@
 
 1. Obtain all tweets (upto ~3000) posted by a particular user
 
-	**Input:** * user handle*
+	**Input:** *user handle*
 
-	**Output:** * all the past tweets posted by this user*
+	**Output:** *all the past tweets posted by this user*
 
 
 2. Search and retrieve tweets based on search keywords.
